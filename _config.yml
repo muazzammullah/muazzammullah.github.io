@@ -1,5 +1,5 @@
 ---
-title: CodeCoffeeFinance
+title: Muazzam Mullah
 timezone: UTC
 collections:
   posts:
@@ -14,8 +14,8 @@ defaults:
     type: posts
   values:
     layout: post
-description: Talk about Code,Coffee,Finance
-url: https://codecoffeefinance.github.io
+description: Fun posts about Software and Web Development
+url: https://muazzammullah.github.io
 author:
   name: Muazzam Mullah
   email: coderpython24@gmail.com
